@@ -29,3 +29,23 @@
 //4. cetak luas lingkaran
 
 
+/**
+ * STUDY CASE 3
+ *
+ * Tentukan algoritma dan pseudocode 1/2 volume bola
+ */
+
+// algoritma 
+// 1. buat 1/2 volume bola
+// 2. tentukan jari2
+// 3. buat phi 3,14
+// 4. buat variabel setengah lingkaran
+// 5. buat rumus luas 
+
+// pseucode
+// 1. isi variabel setangah lingkaran 
+// 2. isi variabel 2/3
+// 3. isi variabel jari
+// 4. isi variabel phi
+// 5. isi variabel luas dengan 2/3 * 1/2 * phi * r3
+// 6. cetak luas
