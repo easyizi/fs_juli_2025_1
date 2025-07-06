@@ -83,7 +83,7 @@
  *  2. buat lebar dengan l
  *  3. buat tinggi dengan t
  *  4. buat variabel luas permukaan
- *  5. isi luas permukaan dengan 2 kali (p kali l) tambah (p kali t) tambah (l kali t)
+ *  5. isi luas permukaan dengan 2 kali p kali l tambah 2 kali p kali t tambah 2 kali 1 kali t
  *  6. cetak luas
  * 
  * PSEUCODE
@@ -92,5 +92,7 @@
  * STORE l with ANY NUMBER
  * STORE t with ANY NUMBER
  * 
- * STORE luas WITH 2 MUL p
+ * STORE luas WITH 2 MUL p MUL t ADD 2 MUL p MUL t ADD 2 MUL l MUL t
+ * PRINT luas
+ * 
  */
