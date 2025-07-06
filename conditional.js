@@ -32,15 +32,15 @@ if (angka = 18) {
  * 
  */
 
-let minuman = "kopi";
-switch (minuman) {
-    case 'kopi':
-        console.log ('saya pilih kopi');
-        break;
-    case 'teh':
-        console.log ('saya pilih teh');
-        break;
-}
+// let minuman = "kopi";
+// switch (minuman) {
+//     case 'kopi':
+//         console.log ('saya pilih kopi');
+//         break;
+//     case 'teh':
+//         console.log ('saya pilih teh');
+//         break;
+// }
 
 
 
@@ -105,6 +105,55 @@ if (bilangan % 2 == 0) {
 } else {
     console.log ("bilangan ganjil")
 }
+
+
+/**
+ * 
+ * Sebuah vending machine dapat menginput sebuah string dan memberikan sebuah minuman
+ * berikut listnya :
+ * 1. "Sweet tea"
+ * 2. "Plain Tea"
+ * 3. "Boba"
+ * 4. "Milk Coffe"
+ * 5. "Choco Ice"
+ * 
+ * Jika pembeli memilih "sweet tea", maka result : "you choose Sweet Tea, thanks"
+ * 
+ * (gunakan switch case)
+ * 
+ * ALGORITMA
+ * 1. buat variabel objek dengan nama minuman sesuai soal diatas
+ * 2. cek pembeli mau milih minuman apa
+ * 3. cetak hasilnya
+ * 
+ * PSEUCODE
+ * 1. 
+ * 
+ * 
+ * 
+ */
+
+let minuman = "Sweet tea";
+switch (minuman){
+    case 'Sweet tea':
+        console.log ("You choose Sweet tea, thanks");
+        break;
+    case 'Plain Tea':
+        console.log ("You choose Plain Tea, thanks");
+        break;
+    case 'Boba':
+        console.log ("You choose Boba, thanks");
+        break;
+    case 'Milk Coffe':
+        console.log ("You choose Milk Coffe, thanks");
+        break;
+    case 'Choco Ice':
+        console.log ("You choose Choco Ice, thanks");
+        break;
+}
+
+
+
 
 
 
