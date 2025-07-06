@@ -87,7 +87,7 @@
  *  6. cetak luas
  * 
  * PSEUCODE
- * STORE phi with 3.14
+ *
  * STORE p with ANY NUMBER
  * STORE l with ANY NUMBER
  * STORE t with ANY NUMBER
